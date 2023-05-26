@@ -3,9 +3,10 @@
 Created a cel (also known as toon) shader.  Shader IDE used is [SHADERed](https://shadered.org/)
 
 **Languages**: GLSL, HLSL
-**TODO insert video**
 
 https://github.com/Michael-1171913/Graphics-Cel-Shading-Final-Project
+
+https://github.com/Michael12309/School/assets/40968057/6e8c218a-6695-40e7-9412-210ffebffb28
 
 # GPR 300 - Intermediate Graphics & Animation Programming: Koi fish game
 PBR shaders I created in Unreal Engine using as part of a small game.
@@ -18,7 +19,7 @@ https://github.com/Michael12309/School/assets/40968057/a7c250ca-6736-41e8-9099-2
 
 Final game: https://github.com/Michael-1171913/Graphics-Cel-Shading-Final-Project
 
-**TODO insert video**
+https://github.com/Michael12309/School/assets/40968057/9369c50a-bf4e-40f1-a4c8-573dfa4103c3
 
 # GPR 300 - Intermediate Graphics & Animation Programming: Master material PBR
 
@@ -38,7 +39,7 @@ Created an Android app for Conway's Game of Life.
 
 https://github.com/Michael-1171913/GameOfLife2
 
-**TODO insert video**
+<!-- TODO insert video -->
 
 # Android Development: Chit Chat
 
@@ -48,7 +49,7 @@ https://github.com/Michael-1171913/Android-Project-3-Chit-Chat
 
 **Languages**: Kotlin
 
-**TODO insert video**
+<!-- TODO insert video -->
 
 # Graphics Programming: 3D Model by Hand
 
