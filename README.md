@@ -1,6 +1,6 @@
 # Capstone: TrailHound
 
-[https://github.com/wesbeard](Wes Beard), [Josh Bogin], and I created a trail mapping app for mountain bikers.
+[Wes Beard](https://github.com/wesbeard), [Josh Bogin](https://github.com/JoshBogin), and I created a trail mapping app for mountain bikers.
 Allows users to record routes while riding, submit trails to a public database, and browse community trails via an interactive map.
 
 **Language**: Dart
