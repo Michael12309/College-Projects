@@ -1,3 +1,17 @@
+# Capstone: TrailHound
+
+[https://github.com/wesbeard](Wes Beard), [Josh Bogin], and I created a trail mapping app for mountain bikers.
+Allows users to record routes while riding, submit trails to a public database, and browse community trails via an interactive map.
+
+**Language**: Dart
+**Framework**: Flutter
+**Tools**: Google Maps API, Google Cloud, Firebase
+**Design**: Google's Material 3 (Material You)
+
+![Trailhound Final Presentation](https://github.com/Michael12309/School/assets/40968057/ac9588d1-f806-4024-b4b2-7b4bcecdae2d)
+![Trailhound Final Presentation (1)](https://github.com/Michael12309/School/assets/40968057/4ac8b909-6bcc-4fb0-a5f2-c518aeb518fc)
+![Trailhound Final Presentation (2)](https://github.com/Michael12309/School/assets/40968057/2efdbb64-02b3-46ef-9a1c-44a9d2372093)
+
 # Graphics Programming: Cel Shader
 
 Created a cel (also known as toon) shader.  Shader IDE used is [SHADERed](https://shadered.org/)
@@ -11,7 +25,7 @@ https://github.com/Michael12309/School/assets/40968057/6e8c218a-6695-40e7-9412-2
 # GPR 300 - Intermediate Graphics & Animation Programming: Koi fish game
 PBR shaders I created in Unreal Engine using as part of a small game.
 
-**Languages**: Blueprint Visual Scripting
+**Language**: Blueprint Visual Scripting
 
 Shaders I created: https://github.com/Michael-1171913/GPR-300-Assignment2
 
@@ -19,13 +33,13 @@ https://github.com/Michael12309/School/assets/40968057/a7c250ca-6736-41e8-9099-2
 
 Final game: https://github.com/Michael-1171913/Graphics-Cel-Shading-Final-Project
 
-https://github.com/Michael12309/School/assets/40968057/9369c50a-bf4e-40f1-a4c8-573dfa4103c3
+https://github.com/Michael12309/School/assets/40968057/0177aec0-f746-4720-b976-ce771f5a45da
 
 # GPR 300 - Intermediate Graphics & Animation Programming: Master material PBR
 
 Created a customizable PBR material through the use of a master material.
 
-**Languages**: Blueprint Visual Scripting
+**Language**: Blueprint Visual Scripting
 
 https://github.com/Michael-1171913/GPR300Quiz2
 
@@ -35,7 +49,7 @@ https://github.com/Michael12309/School/assets/40968057/c89fa4fa-b226-4a5d-a5d8-3
 
 Created an Android app for Conway's Game of Life.
 
-**Languages**: Kotlin
+**Language**: Kotlin
 
 https://github.com/Michael-1171913/GameOfLife2
 
@@ -47,7 +61,7 @@ Created the frontend for a twitter-like Android app.
 
 https://github.com/Michael-1171913/Android-Project-3-Chit-Chat
 
-**Languages**: Kotlin
+**Language**: Kotlin
 
 <!-- TODO insert video -->
 
@@ -55,11 +69,15 @@ https://github.com/Michael-1171913/Android-Project-3-Chit-Chat
 
 Created simple 3D shapes (cube, cylinder, and sphere) by hand, writing raw binary using the [SHADERed](https://shadered.org/) IDE and vertex buffers.
 
+**Languages**: GLSL, HLSL
+
+https://github.com/Michael-1171913/GPR-3D-Models-By-Hand
+
 # CSI 380 Emerging Languages: Brainfuck Interpreter
 
 Implemented a brainfuck interpreter. Includes a tokenizer, instruction pointer, data pointer, and storage in memory.
 
-**Languages**: Clojure
+**Language**: Clojure
 
 https://github.com/Michael-1171913/Assignment-9-Brainfuck
 
@@ -67,7 +85,7 @@ https://github.com/Michael-1171913/Assignment-9-Brainfuck
 
 Implemented a NanoBASIC interpreter.
 
-**Languages**: Swift
+**Language**: Swift
 
 https://github.com/Michael-1171913/Assignment-6-NanoBASIC
 
@@ -75,6 +93,6 @@ https://github.com/Michael-1171913/Assignment-6-NanoBASIC
 
 Implemented a ascii console-based version of Connect Four.
 
-**Languages**: Go
+**Language**: Go
 
 https://github.com/Michael-1171913/Assignment-3-Connect-Four
