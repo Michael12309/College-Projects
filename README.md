@@ -12,6 +12,19 @@ Allows users to record routes while riding, submit trails to a public database, 
 ![Trailhound Final Presentation (1)](https://github.com/Michael12309/School/assets/40968057/4ac8b909-6bcc-4fb0-a5f2-c518aeb518fc)
 ![Trailhound Final Presentation (2)](https://github.com/Michael12309/School/assets/40968057/2efdbb64-02b3-46ef-9a1c-44a9d2372093)
 
+# CSI 280: Open Source Software Development
+
+Contributed to an ASCII roguelike game.
+Created a fully ASCII map creator
+ * Import/export maps saved in JSON, and apply attributes to each character for the game to read (pickups, health packs, enemies)
+ * Draw boxes, lines, individual characters, and remove individual characters
+ * Runs at a high FPS considering the library used and the calculations done
+
+**Language**: Python
+**Library**: tcot
+
+https://github.com/Michael12309/School/assets/40968057/d0d11410-c27b-4ae2-a8eb-137767c80ab0
+
 # Graphics Programming: Cel Shader
 
 Created a cel (also known as toon) shader.  Shader IDE used is [SHADERed](https://shadered.org/)
