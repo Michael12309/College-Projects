@@ -4,13 +4,28 @@
 Allows users to record routes while riding, submit trails to a public database, and browse community trails via an interactive map.
 
 **Language**: Dart
+
 **Framework**: Flutter
+
 **Tools**: Google Maps API, Google Cloud, Firebase
+
 **Design**: Google's Material 3 (Material You)
 
 ![Trailhound Final Presentation](https://github.com/Michael12309/School/assets/40968057/ac9588d1-f806-4024-b4b2-7b4bcecdae2d)
 ![Trailhound Final Presentation (1)](https://github.com/Michael12309/School/assets/40968057/4ac8b909-6bcc-4fb0-a5f2-c518aeb518fc)
 ![Trailhound Final Presentation (2)](https://github.com/Michael12309/School/assets/40968057/2efdbb64-02b3-46ef-9a1c-44a9d2372093)
+
+# CSI 340 - Software Design Patterns: Chess!
+
+[Wes Beard](https://github.com/wesbeard) and I created a chess application with sound, replay file support, icon packs, win/loss checks, and valid move checks.
+
+**Language**: Java
+
+**Framework**: Processing
+
+https://github.com/wesbeard/Chess
+
+https://github.com/Michael12309/College-Projects/assets/40968057/478cdedd-bf42-4729-8789-5e04e5dcb6f0
 
 # CSI 280: Open Source Software Development
 
@@ -21,11 +36,12 @@ Created a fully ASCII map creator
  * Runs at a high FPS considering the library used and the calculations done
 
 **Language**: Python
+
 **Library**: tcot
 
 https://github.com/Michael12309/School/assets/40968057/d0d11410-c27b-4ae2-a8eb-137767c80ab0
 
-# Graphics Programming: Cel Shader
+# GPR 200 - Introduction to Modern Graphics Programming: Cel Shader
 
 Created a cel (also known as toon) shader.  Shader IDE used is [SHADERed](https://shadered.org/)
 
@@ -70,7 +86,7 @@ https://github.com/Michael-1171913/GameOfLife2
 
 # Android Development: Chit Chat
 
-Created the frontend for a twitter-like Android app.
+Created the frontend for a Twitter-like Android app.
 
 https://github.com/Michael-1171913/Android-Project-3-Chit-Chat
 
@@ -104,7 +120,7 @@ https://github.com/Michael-1171913/Assignment-6-NanoBASIC
 
 # CSI 380 Emerging Languages: Connect Four
 
-Implemented a ascii console-based version of Connect Four.
+Implemented an ASCII console-based version of Connect Four.
 
 **Language**: Go
 
