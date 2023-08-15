@@ -23,7 +23,7 @@ Allows users to record routes while riding, submit trails to a public database, 
 
 **Framework**: Processing
 
-https://github.com/wesbeard/Chess
+**Code Repository**: https://github.com/wesbeard/Chess
 
 https://github.com/Michael12309/College-Projects/assets/40968057/478cdedd-bf42-4729-8789-5e04e5dcb6f0
 
@@ -47,7 +47,7 @@ Created a cel (also known as toon) shader.  Shader IDE used is [SHADERed](https:
 
 **Languages**: GLSL, HLSL
 
-https://github.com/Michael-1171913/Graphics-Cel-Shading-Final-Project
+**Code Repository**: https://github.com/Michael-1171913/Graphics-Cel-Shading-Final-Project
 
 https://github.com/Michael12309/School/assets/40968057/6e8c218a-6695-40e7-9412-210ffebffb28
 
@@ -70,7 +70,7 @@ Created a customizable PBR material through the use of a master material.
 
 **Language**: Blueprint Visual Scripting
 
-https://github.com/Michael-1171913/GPR300Quiz2
+**Code Repository**: https://github.com/Michael-1171913/GPR300Quiz2
 
 https://github.com/Michael12309/School/assets/40968057/c89fa4fa-b226-4a5d-a5d8-38c26139a3e8
 
@@ -80,7 +80,7 @@ Created an Android app for Conway's Game of Life.
 
 **Language**: Kotlin
 
-https://github.com/Michael-1171913/GameOfLife2
+**Code Repository**: https://github.com/Michael-1171913/GameOfLife2
 
 <!-- TODO insert video -->
 
@@ -88,9 +88,9 @@ https://github.com/Michael-1171913/GameOfLife2
 
 Created the frontend for a Twitter-like Android app.
 
-https://github.com/Michael-1171913/Android-Project-3-Chit-Chat
-
 **Language**: Kotlin
+
+**Code Repository**: https://github.com/Michael-1171913/Android-Project-3-Chit-Chat
 
 <!-- TODO insert video -->
 
@@ -100,7 +100,7 @@ Created simple 3D shapes (cube, cylinder, and sphere) by hand, writing raw binar
 
 **Languages**: GLSL, HLSL
 
-https://github.com/Michael-1171913/GPR-3D-Models-By-Hand
+**Code Repository**: https://github.com/Michael-1171913/GPR-3D-Models-By-Hand
 
 # CSI 380 Emerging Languages: Brainfuck Interpreter
 
@@ -108,7 +108,7 @@ Implemented a brainfuck interpreter. Includes a tokenizer, instruction pointer, 
 
 **Language**: Clojure
 
-https://github.com/Michael-1171913/Assignment-9-Brainfuck
+**Code Repository**: https://github.com/Michael-1171913/Assignment-9-Brainfuck
 
 # CSI 380 Emerging Languages: NanoBASIC interpreter
 
@@ -116,7 +116,7 @@ Implemented a NanoBASIC interpreter.
 
 **Language**: Swift
 
-https://github.com/Michael-1171913/Assignment-6-NanoBASIC
+**Code Repository**: https://github.com/Michael-1171913/Assignment-6-NanoBASIC
 
 # CSI 380 Emerging Languages: Connect Four
 
@@ -124,4 +124,4 @@ Implemented an ASCII console-based version of Connect Four.
 
 **Language**: Go
 
-https://github.com/Michael-1171913/Assignment-3-Connect-Four
+**Code Repository**: https://github.com/Michael-1171913/Assignment-3-Connect-Four
